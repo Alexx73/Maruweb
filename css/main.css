@@ -1,20 +1,14 @@
-body  {
-     margin-left: 100px;
-      
-  }
+
 
 
 
 header {
-    background-color: #607d8b;
-    
-    
-  }
+    background-color: #607d8b;}
 
-hr.rounded {
-  border-top: 25px solid rgb(211, 16, 16);
-  border-radius: 8px;
-}
+
+    main {background-color: #08f}
+
+
 
 
   footer {
